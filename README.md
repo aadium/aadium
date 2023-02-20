@@ -32,6 +32,9 @@
   <a href = "https://www.instagram.com/aadixum/">
     <img align = "center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt = "aadiumrani-instagramprofile" height = "30" width = "30"/>
   </a>
+  <a href = "https://www.facebook.com/aadxxum.2004/">
+    <img align = "center" src = "https://louisville.edu/mcconnellcenter/images/facebook_logos_PNG19748.png/image" alt = "aadiumrani-facebook" height = "30" width = "30"/>
+  </a>
 
 </p> 
 <h2> My GitHub stats and contributions: </h2>
