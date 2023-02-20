@@ -3,6 +3,7 @@
 <h2> A little bit about myself: </h2>
 - Name: <b> Aadi Umrani </b><br>
 - Pronouns: <b> He/Him </b><br>
+- Nationality: <b> Indian </b><br>
 - Located in: <b>Waterloo, Ontario, Canada</b><br>
 - Degree: <b> Bachelor of Applied Science, Biomedical Engineering</b><br>
 - Current status: <b>First-year Student</b><br>
