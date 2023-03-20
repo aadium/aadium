@@ -10,10 +10,9 @@
 
 <h2> Languages I have learnt and used: </h2>
 <p>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt = "cpp" height = "50" width = "50">
-<img src = "https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt = "html" height = "50" width = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css" height = "50" width = "50">
+<img src = "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt = "web" height = "60" width = "150">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "py" height = "50" width = "50">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt = "cpp" height = "50" width = "50">
 </p>
 <h4> Also well-experienced with: </h4>
 <p>
