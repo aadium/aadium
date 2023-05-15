@@ -14,6 +14,11 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "py" height = "50" width = "50">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt = "cpp" height = "50" width = "50">
 </p>
+<h4> Platforms I have experience with: </h4>
+<p>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt = "VScode" height = "40" width = "40">
+  &nbsp;
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "45" width = "45">
 <h4> Also well-experienced with: </h4>
 <p>
 <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
