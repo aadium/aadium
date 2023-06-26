@@ -10,7 +10,6 @@
 <h2> Languages I have learnt and used: </h2>
 <p>
   <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt = "dart" height = "50" width = "50">
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt = "dart" height = "50" width = "50">
   <img src = "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt = "web" height = "60" width = "150">
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "py" height = "50" width = "50">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt = "cpp" height = "50" width = "50">
