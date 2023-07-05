@@ -1,5 +1,4 @@
 <img width = 100% src = "https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572">
-<img align="right" width=35% height=40% alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h2> A little bit about myself: </h2>
 - Name: <b> Aadi Umrani </b><br>
 - Nationality: <b> Indian </b><br>
@@ -9,10 +8,14 @@
 
 <h2> Languages I have learnt and used: </h2>
 <p>
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt = "dart" height = "50" width = "50">
-  <img src = "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt = "web" height = "60" width = "150">
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt = "py" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/373669/html.svg" alt = "html" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/373535/css.svg" alt = "css" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "rjs" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/452075/node-js.svg" alt = "njs" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt = "cpp" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
 </p>
 <h4> Platforms I have experience with: </h4>
 <p>
@@ -23,7 +26,6 @@
 <p>
 <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
 <img src = "https://img.icons8.com/color/480/solidworks.png" alt = "solidworks" height = "50" width = "50">
-
 
 <h2> Connect with me: </h2>
 <p align = "left">
