@@ -19,9 +19,9 @@
 </p>
 <h4> Platforms I have experience with: </h4>
 <p>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt = "VScode" height = "40" width = "40">
+<img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
   &nbsp;
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "45" width = "45">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
 <h4> Also well-experienced with: </h4>
 <p>
 <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
@@ -29,16 +29,16 @@
 
 <h2> Connect with me: </h2>
 <p align = "left">
-  <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/826px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt = "aadiumrani-outlook-uw" height = "30" width = "35"/></a>
-  <a href="mailto:aadi.p.um@gmail.com"><img align = "center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt = "aadiumrani-gmail" height = "30" width = "37"/></a>
+  <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://www.svgrepo.com/show/373951/outlook.svg" alt = "aadiumrani-outlook-uw" height = "40" width = "40"/></a>
+  <a href="mailto:aadi.p.um@gmail.com"><img align = "center" src = "https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt = "aadiumrani-gmail" height = "40" width = "40"/></a>
   <a href = "https://www.linkedin.com/in/aadi-umrani/">
-    <img align = "center" src = "https://img.icons8.com/fluency/96/000000/linkedin.png" alt = "aadiumrani-linkedinprofile" height = "40" width = "40"/>
+    <img align = "center" src = "https://www.svgrepo.com/show/448234/linkedin.svg" alt = "aadiumrani-linkedinprofile" height = "40" width = "40"/>
   </a>
   <a href = "https://www.instagram.com/aadixum/">
-    <img align = "center" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt = "aadiumrani-instagramprofile" height = "30" width = "30"/>
+    <img align = "center" src = "https://www.svgrepo.com/show/452229/instagram-1.svg" alt = "aadiumrani-instagramprofile" height = "35" width = "35"/>
   </a>
   <a href = "https://www.facebook.com/aadxxum.2004/">
-    <img align = "center" src = "https://louisville.edu/mcconnellcenter/images/facebook_logos_PNG19748.png/image" alt = "aadiumrani-facebook" height = "30" width = "30"/>
+    <img align = "center" src = "https://www.svgrepo.com/show/475647/facebook-color.svg" alt = "aadiumrani-facebook" height = "30" width = "30"/>
   </a>
 
 </p> 
