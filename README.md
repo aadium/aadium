@@ -11,9 +11,9 @@
   <img src = "https://www.svgrepo.com/show/373669/html.svg" alt = "html" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/373535/css.svg" alt = "css" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "rjs" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452075/node-js.svg" alt = "njs" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt = "cpp" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
 </p>
