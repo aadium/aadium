@@ -10,7 +10,6 @@
 <p>
   <img src = "https://www.svgrepo.com/show/373669/html.svg" alt = "html" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/373535/css.svg" alt = "css" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "rjs" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
@@ -20,8 +19,14 @@
 <h4> Platforms I have experience with: </h4>
 <p>
 <img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
-  &nbsp;
+&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
+<h4> Frameworks I have experience with: </h4>
+  <p>
+    <img src = "https://camo.githubusercontent.com/3b342691e7ada9bb0362fb0054fe948c5d3d83e80433798f3cc3669881cbac6f/687474703a2f2f706a7265646469652e636f6d2f7374617469632f696d672f6461726b6e65742e706e67" alt = "VScode" height = "50" width = "50">
+    <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "VScode" height = "50" width = "50">
+    <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "rjs" height = "50" width = "50">
+  </p>
 <h4> Also well-experienced with: </h4>
 <p>
 <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
