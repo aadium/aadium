@@ -49,11 +49,13 @@
 
 </p> 
 <h2> My GitHub stats and contributions: </h2>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadium&show_icons=true&theme=transparent&line_height=27">
+<br>
  <img width = 40% src = "https://github-readme-stats.vercel.app/api?username=aadium&show_icons=true&theme=transparent&line_height=27">
  <br>
 <img width = 40% src="https://github-readme-streak-stats.herokuapp.com/?user=aadium&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=0" />
 <br>
 <h4> Snake Eating my Contribution Graph </h4>
 
-![Snake animation](https://github.com/aadium/aadium/blob/output/github-contribution-grid-snake.svg) 
+![snake gif](https://github.com/aadium/aadium/blob/output/github-contribution-grid-snake.svg)
 <img width = 100% src = "https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
