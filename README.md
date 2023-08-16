@@ -51,6 +51,8 @@
 <h2> My GitHub stats and contributions: </h2>
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadium&show_icons=true&theme=transparent&line_height=27">
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadium&show_icons=true&locale=en&layout=compact&theme=transparent&hide=grey" alt="ovi" />
+<br>
  <img width = 40% src = "https://github-readme-stats.vercel.app/api?username=aadium&show_icons=true&theme=transparent&line_height=27">
  <br>
 <img width = 40% src="https://github-readme-streak-stats.herokuapp.com/?user=aadium&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=0" />
