@@ -21,6 +21,7 @@
 <img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
 &nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
 <h4> Frameworks I have experience with: </h4>
   <p>
     <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
