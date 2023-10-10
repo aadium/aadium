@@ -1,12 +1,12 @@
 <img width = 100% src = "https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572">
-<h2> A little bit about myself: </h2>
+<h2>A little bit about myself</h2>
 - Name: <b> Aadi Umrani </b><br>
 - Nationality: <b> Indian </b><br>
 - Located in: <b>Waterloo, Ontario, Canada</b><br>
 - Degree: <b> Bachelor of Applied Science, Biomedical Engineering</b><br>
 - Current status: <b>Second-year Student</b><br>
 
-<h2> Languages I have learnt and used: </h2>
+<h2>Languages I have learnt and used</h2>
 <p>
   <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
@@ -33,7 +33,7 @@
 <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
 <img src = "https://img.icons8.com/color/480/solidworks.png" alt = "solidworks" height = "50" width = "50">
 
-<h2> Connect with me: </h2>
+<h2>Connect with me</h2>
 <p align = "left">
   <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://www.svgrepo.com/show/373951/outlook.svg" alt = "aadiumrani-outlook-uw" height = "40" width = "40"/></a>
   <a href="mailto:aadi.p.um@gmail.com"><img align = "center" src = "https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt = "aadiumrani-gmail" height = "40" width = "40"/></a>
@@ -49,8 +49,7 @@
 
 </p> 
 
-<br></br>
-
+<h2>Contributions</h2>
 <center>
 
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadium&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
