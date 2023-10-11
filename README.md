@@ -6,7 +6,7 @@
 - Degree: <b> Bachelor of Applied Science, Biomedical Engineering</b><br>
 - Current status: <b>Second-year Student</b><br>
 
-<h2>Languages I have learnt and used</h2>
+<h2>Tools and technologies I have experience with</h2>
 <p>
   <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
@@ -15,23 +15,15 @@
   <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
-</p>
-<h4> Platforms I have experience with: </h4>
-<p>
-<img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
-&nbsp;
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
-<h4> Frameworks I have experience with: </h4>
-  <p>
-    <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
-    <img src = "https://camo.githubusercontent.com/3b342691e7ada9bb0362fb0054fe948c5d3d83e80433798f3cc3669881cbac6f/687474703a2f2f706a7265646469652e636f6d2f7374617469632f696d672f6461726b6e65742e706e67" alt = "darknet" height = "50" width = "50">
-    <img src = "https://uploads-ssl.webflow.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" alt = "ultralytics" height = "50" width = "50">
-  </p>
-<h4> Also well-experienced with: </h4>
-<p>
-<img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
-<img src = "https://img.icons8.com/color/480/solidworks.png" alt = "solidworks" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
+  &nbsp;
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
+  <img src = "https://camo.githubusercontent.com/3b342691e7ada9bb0362fb0054fe948c5d3d83e80433798f3cc3669881cbac6f/687474703a2f2f706a7265646469652e636f6d2f7374617469632f696d672f6461726b6e65742e706e67" alt =   "darknet" height = "50" width = "50">
+  <img src = "https://uploads-ssl.webflow.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" alt = "ultralytics" height = "50" width = "50">
+  <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
+  <img src = "https://img.icons8.com/color/480/solidworks.png" alt = "solidworks" height = "50" width = "50">
 
 <h2>Connect with me</h2>
 <p align = "left">
