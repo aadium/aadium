@@ -25,6 +25,7 @@
   <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
   <img src = "https://img.icons8.com/color/480/solidworks.png" alt = "solidworks" height = "50" width = "50">
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=compact&theme=tokyonight&hide_border=true&hide=C&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Connect with me</h2>
 <p align = "left">
   <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://www.svgrepo.com/show/373951/outlook.svg" alt = "aadiumrani-outlook-uw" height = "40" width = "40"/></a>
