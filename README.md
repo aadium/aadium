@@ -14,6 +14,7 @@
   <img src = "https://www.svgrepo.com/show/373535/css.svg" alt = "css" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "reactjs" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452075/node-js.svg" alt = "nodejs" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
@@ -21,7 +22,6 @@
   &nbsp;
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
   <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
   <img src = "https://img.icons8.com/color/480/solidworks.png" alt = "solidworks" height = "50" width = "50">
 
