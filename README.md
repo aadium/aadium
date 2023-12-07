@@ -22,8 +22,6 @@
   &nbsp;
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
-  <img src = "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt = "office" height = "50" width = "50">
-  <img src = "https://img.icons8.com/color/480/solidworks.png" alt = "solidworks" height = "50" width = "50">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=compact&theme=tokyonight&hide_border=true&hide=C&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Connect with me</h2>
