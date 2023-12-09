@@ -9,13 +9,13 @@
 <h2>Tools and technologies I have experience with</h2>
 <p>
   <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
+  <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50">
   <img src = "https://logodix.com/logo/374748.png" alt = "hjc" height = "60">
   <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "reactjs" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452075/node-js.svg" alt = "nodejs" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
   <img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
   &nbsp;
