@@ -23,7 +23,7 @@
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Connect with me</h2>
 <p align = "left">
   <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://www.svgrepo.com/show/373951/outlook.svg" alt = "aadiumrani-outlook-uw" height = "40" width = "40"/></a>
