@@ -43,8 +43,8 @@
 <h2>GitHub Stats</h2>
 <center>
 <p>
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadium&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49.5%" alt="@Goblin's github-readme-stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aadium&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49.5%" alt="@Goblin's github-readme-streak-stats"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadium&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aadium&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%"/>
 </p>
 </center>
 
