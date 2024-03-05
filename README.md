@@ -8,22 +8,30 @@
 
 <h2>Tools and technologies I have experience with</h2>
 <p>
-  <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50">
-  <img src = "https://logodix.com/logo/374748.png" alt = "hjc" height = "60">
-  <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "reactjs" height = "50" width = "50">
-  <img src = "https://img.icons8.com/officel/2x/express-js.png" alt = "nodejs" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452075/node-js.svg" alt = "nodejs" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
-  <img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
-  &nbsp;
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
+  <table>
+    <tr>
+      <td>
+        <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
+        <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
+        <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
+        <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
+        <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50"><br/>
+        <img src = "https://logodix.com/logo/374748.png" alt = "hjc" height = "60">
+        <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "reactjs" height = "50" width = "50">
+        <img src = "https://img.icons8.com/officel/2x/express-js.png" alt = "nodejs" height = "50" width = "50"><br/>
+        <img src = "https://www.svgrepo.com/show/452075/node-js.svg" alt = "nodejs" height = "50" width = "50">
+        <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
+        <img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
+        &nbsp;
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8">
+      </td>
+    </tr>
+  </table>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Connect with me</h2>
 <p align = "left">
   <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://www.svgrepo.com/show/373951/outlook.svg" alt = "aadiumrani-outlook-uw" height = "40" width = "40"/></a>
@@ -49,5 +57,5 @@
 </center>
 
 <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadium&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadium&theme=tokyo-night&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
 </p>
