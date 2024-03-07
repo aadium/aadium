@@ -17,8 +17,8 @@
         <p>Databases<br/>
           <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,dynamodb" />
         </p>
-        <p>Cloud Frameworks<br/>
-          <img src="https://skillicons.dev/icons?i=aws,gcp" />
+        <p>Cloud Platforms<br/>
+          <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" />
         </p>
       </td>
       <td>
