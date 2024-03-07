@@ -12,7 +12,7 @@
           <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,html,css,js" />
         </p>
         <p>Frameworks<br/>
-          <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring,flask" />
+          <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring,flask,anaconda" />
         </p>
         <p>Databases<br/>
           <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,dynamodb" />
