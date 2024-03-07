@@ -1,10 +1,7 @@
-<h1>Hello</h1>
-<h2>A little bit about myself</h2>
-- Name: <b> Aadi Umrani </b><br>
-- Nationality: <b> Indian </b><br>
-- Located in: <b>Waterloo, Ontario, Canada</b><br>
-- Degree: <b> BASc Biomedical Engineering</b><br>
-- Current status: <b>Second-year Student</b><br>
+<div align= "center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Aadi++Umrani...;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+</div>
 
 <h2>Tools and technologies I have experience with</h2>
 <p>
@@ -35,7 +32,7 @@
 <h2>Connect with me</h2>
 <p align = "left">
   <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://www.svgrepo.com/show/373951/outlook.svg" alt = "aadiumrani-outlook-uw" height = "40" width = "40"/></a>
-  <a href="mailto:aadi.p.um@gmail.com"><img align = "center" src = "https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt = "aadiumrani-gmail" height = "40" width = "40"/></a>
+  <a href="mailto:aadi.p.um@gmail.com"><img align = "center" src = "https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt = "aadiumrani-gmail" height = "30"/></a>
   <a href = "https://www.linkedin.com/in/aadi-umrani/">
     <img align = "center" src = "https://www.svgrepo.com/show/448234/linkedin.svg" alt = "aadiumrani-linkedinprofile" height = "40" width = "40"/>
   </a>
@@ -45,7 +42,6 @@
   <a href = "https://www.facebook.com/aadxxum.2004/">
     <img align = "center" src = "https://www.svgrepo.com/show/475647/facebook-color.svg" alt = "aadiumrani-facebook" height = "30" width = "30"/>
   </a>
-
 </p> 
 
 <h2>GitHub Stats</h2>
