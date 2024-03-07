@@ -8,20 +8,18 @@
   <table>
     <tr>
       <td>
-        <img src = "https://www.svgrepo.com/show/374016/python.svg" alt = "py" height = "50" width = "50">
-        <img src = "https://www.svgrepo.com/show/452183/cpp.svg" alt = "cpp" height = "50" width = "50">
-        <img src = "https://www.svgrepo.com/show/353631/dart.svg" alt = "dart" height = "50" width = "50">
-        <img src = "https://www.svgrepo.com/show/373604/flutter.svg" alt = "flutter" height = "50" width = "50">
-        <img src = "https://www.svgrepo.com/show/452234/java.svg" alt = "java" height = "50" width = "50"><br/>
-        <img src = "https://logodix.com/logo/374748.png" alt = "hjc" height = "60">
-        <img src = "https://www.svgrepo.com/show/452092/react.svg" alt = "reactjs" height = "50" width = "50">
-        <img src = "https://img.icons8.com/officel/2x/express-js.png" alt = "nodejs" height = "50" width = "50"><br/>
-        <img src = "https://www.svgrepo.com/show/452075/node-js.svg" alt = "nodejs" height = "50" width = "50">
-        <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt = "sql" height = "50" width = "50">
-        <img src = "https://www.svgrepo.com/show/452129/vs-code.svg" alt = "VScode" height = "50" width = "50">
-        &nbsp;
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "JPnotebook" height = "50" width = "50">
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt = "gcolab" height = "50" width = "50">
+        <p>Languages<br/>
+          <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,html,css,js" />
+        </p>
+        <p>Frameworks<br/>
+          <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring,flask" />
+        </p>
+        <p>Databases<br/>
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,dynamodb" />
+        </p>
+        <p>Cloud Frameworks<br/>
+          <img src="https://skillicons.dev/icons?i=aws,gcp" />
+        </p>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8">
