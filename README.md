@@ -29,16 +29,18 @@
 
 <h2>Connect with me</h2>
 <p align = "left">
-  <a href="mailto:apumrani@uwaterloo.ca, secondemail@example.com"><img align = "center" src = "https://www.svgrepo.com/show/373951/outlook.svg" alt = "aadiumrani-outlook-uw" height = "40" width = "40"/></a>
-  <a href="mailto:aadi.p.um@gmail.com"><img align = "center" src = "https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt = "aadiumrani-gmail" height = "30"/></a>
+  <a href = "https://twitter.com/um_aadi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:aadi.p.um@gmail.com"><img src="https://img.shields.io/badge/Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/aadi-umrani/">
-    <img align = "center" src = "https://www.svgrepo.com/show/448234/linkedin.svg" alt = "aadiumrani-linkedinprofile" height = "40" width = "40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href = "https://www.instagram.com/aadixum/">
-    <img align = "center" src = "https://www.svgrepo.com/show/452229/instagram-1.svg" alt = "aadiumrani-instagramprofile" height = "35" width = "35"/>
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href = "https://www.facebook.com/aadxxum.2004/">
-    <img align = "center" src = "https://www.svgrepo.com/show/475647/facebook-color.svg" alt = "aadiumrani-facebook" height = "30" width = "30"/>
+    <img src="https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p> 
 
