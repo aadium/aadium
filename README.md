@@ -22,7 +22,7 @@
         </p>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0.7&count_weight=0.3">
       </td>
     </tr>
   </table>
@@ -47,8 +47,8 @@
 <h2>GitHub Stats</h2>
 <center>
 <p>
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadium&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aadium&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadium&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aadium&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%"/>
 </p>
 </center>
 
