@@ -20,6 +20,9 @@
         <p>Cloud Platforms<br/>
           <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" />
         </p>
+        <p>UI/UX Design<br/>
+          <img src="https://skillicons.dev/icons?i=figma" />
+        </p>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0.7&count_weight=0.3">
