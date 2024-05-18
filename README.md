@@ -8,19 +8,14 @@
   <table>
     <tr>
       <td>
-        <p>Languages<br/>
           <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,html,css,js" />
         </p>
-        <p>Frameworks<br/>
           <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring,flask,anaconda" />
         </p>
-        <p>Databases<br/>
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,dynamodb" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb" />
         </p>
-        <p>Cloud Platforms<br/>
           <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" />
         </p>
-        <p>UI/UX Design<br/>
           <img src="https://skillicons.dev/icons?i=figma" />
         </p>
       </td>
