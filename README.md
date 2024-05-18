@@ -14,7 +14,7 @@
         </p>
           <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb" />
         </p>
-          <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" />
+          <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify" />
         </p>
           <img src="https://skillicons.dev/icons?i=figma" />
         </p>
