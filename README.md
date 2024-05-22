@@ -27,18 +27,17 @@
 
 <h2>Connect with me</h2>
 <p align = "left">
-  <a href = "https://twitter.com/um_aadi">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="mailto:aadi.p.um@gmail.com"><img src="https://img.shields.io/badge/Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/aadi-umrani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:aadi.p.um@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href = "https://www.instagram.com/aadixum/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href = "https://www.facebook.com/aadxxum.2004/">
-    <img src="https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white">
+  <a href = "https://twitter.com/um_aadi">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p> 
 
