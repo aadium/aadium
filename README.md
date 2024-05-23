@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href = "https://twitter.com/um_aadi">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" />
   </a>
 </p> 
 
