@@ -36,6 +36,9 @@
   <a href = "https://www.instagram.com/aadixum/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a href = "https://www.facebook.com/aadxxum.2004/">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
   <a href = "https://twitter.com/um_aadi">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=x" />
   </a>
