@@ -8,15 +8,15 @@
   <table>
     <tr>
       <td>
-          <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,html,css,js" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,dart,java,html,css,js" />
         </p>
-          <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring,flask,anaconda" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,react,nodejs,express,spring,flask,anaconda" />
         </p>
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb" />
         </p>
-          <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,netlify" />
         </p>
-          <img src="https://skillicons.dev/icons?i=figma" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" />
         </p>
       </td>
       <td>
@@ -28,13 +28,13 @@
 <h2>Connect with me</h2>
 <p align = "left">
   <a href = "https://www.linkedin.com/in/aadi-umrani/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
   <a href="mailto:aadi.p.um@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
   </a>
   <a href = "https://www.instagram.com/aadixum/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
   </a>
   <a href = "https://www.facebook.com/aadxxum.2004/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
