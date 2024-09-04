@@ -22,6 +22,7 @@
   </table>
 
 <h2>Connect with me</h2>
+
 <p align = "left">
   <a href = "https://www.linkedin.com/in/aadi-umrani/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
