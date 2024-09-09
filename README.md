@@ -47,7 +47,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aadium&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%"/>
 </p>
 </center>
-
 <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadium&theme=tokyo-night&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
 </p>
