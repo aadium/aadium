@@ -4,22 +4,14 @@
 
 <h2>Tech Stack</h2>
 <p>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadium&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0.6&count_weight=0.4">
-      </td>
-      <td>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,dart,java,go,html,css,js,ts" />
-        </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,react,next,nodejs,express,spring,tailwind,tensorflow" />
-        </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb" />
-        </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,netlify" />
-      </td>
-    </tr>
-  </table>
+    <div>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,dart,java,go,html,css,js,ts" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,react,next,nodejs,express,spring,tailwind,tensorflow" />
+        <br/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb,docker" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,netlify" />
+    </div>
+</p>
 
 <h2>Connect with me</h2>
 <p align = "left">
