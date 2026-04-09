@@ -8,7 +8,7 @@
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,dart,java,go,html,css,js,ts" />
         <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,react,next,nodejs,express,spring,tailwind,tensorflow" />
         <br/>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb,docker" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb,pocketbase,docker" />
         <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,netlify" />
     </div>
 </p>
