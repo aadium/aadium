@@ -7,11 +7,11 @@
     <div>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,dart,java,go,html,css,js,ts" />
         <br/>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,react,next,nodejs,express,spring,tailwind,tensorflow" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,react,next,vue,nodejs,spring,fastapi,flask,tensorflow,pytorch" />
         <br/>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase,mongodb,firebase,dynamodb,pocketbase,docker" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgres,supabase,mongodb,graphql,firebase,dynamodb,pocketbase,docker" />
         <br/>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,netlify" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,netlify,ubuntu,windows" />
     </div>
 </p>
 
